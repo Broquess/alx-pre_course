@@ -1,2 +1,2 @@
 My first README
-Learning to program withalx
+Learning to program with alx
